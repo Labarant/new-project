@@ -44,7 +44,7 @@ while(summ > 0):
   dig = summ % 10
   summ_rev  += str(dig)
   summ = summ // 10
-print()  
+
 print('Сумма наоборот', summ_rev )  
 print('Хорошего дня друг')
 print('Описание')
