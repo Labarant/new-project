@@ -46,6 +46,3 @@ while(summ > 0):
   summ = summ // 10
 print()  
 print('Сумма наоборот', summ_rev )  
-print('Хорошего дня ')
-print('Your')
-print('new branch')
