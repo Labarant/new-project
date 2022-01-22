@@ -47,3 +47,4 @@ while(summ > 0):
 print()  
 print('Сумма наоборот', summ_rev )  
 print('Хорошего дня ')
+print('')
