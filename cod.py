@@ -46,3 +46,5 @@ while(summ > 0):
   summ = summ // 10
 
 print('Сумма наоборот', summ_rev )  
+
+print('Хорошего дня друг')
