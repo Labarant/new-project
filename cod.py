@@ -39,11 +39,10 @@ while(num2 > 0):
 print("Второе число в обратном порядке:", int(rev2))
 print()
 summ = int(rev) + int(rev2)
-print('Сумма', summ)
+print('Сумма общая', summ)
 while(summ > 0):
   dig = summ % 10
   summ_rev  += str(dig)
   summ = summ // 10
-print('Bay')  
 print('Сумма наоборот', summ_rev )  
 print('hello boy')
